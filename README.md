@@ -1,6 +1,6 @@
 # SpringBoot - TodoList
 
-📝 **Spring Boot Todolist** App: Leveraging **Spring Boot**, **Spring Data JPA**, **Spring Security** for a comprehensive and secure task management experience!
+📝 **Spring Boot Todolist** API: Leveraging **Spring Boot**, **Spring Data JPA**, **Spring Security** for a comprehensive and secure task management experience!
 
 ### Getting Started
 To run the project:
